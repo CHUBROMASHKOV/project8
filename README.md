@@ -1,1 +1,1 @@
-# project8
+# practika-zadanie-8
